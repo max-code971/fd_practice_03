@@ -1,4 +1,5 @@
 # ServerSharing — Landing Page
 ## 📷 Вигляд проєкту
 
-<img width="415" height="877" alt="image" src="https://github.com/user-attachments/assets/16e22224-7468-41d7-bc0a-af1309e19b74" />
+<img width="1660" height="3508" alt="Screenshot 2026-10-13 112241" src="https://github.com/user-attachments/assets/a66dd82e-453f-4e74-9d63-fecbd9429a80" />
+
